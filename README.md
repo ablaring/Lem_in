@@ -41,7 +41,7 @@ Enjoy !
 Here's an example of how you might run the lem_in program and what the expected output would look like:
 
 ```
-./lem_in < anthill
+make && ./lem_in < anthill
 ```
 
 This command feeds the 'anthill' file into the lem_in program. Below is an illustration of the format the 'anthill' file might take and the corresponding output:
